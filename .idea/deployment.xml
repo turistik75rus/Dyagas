@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="Beget" remoteFilesAllowedToDisappearOnAutoupload="false" notifyRemoteChanges="true">
+    <serverData>
+      <paths name="Beget">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/turist3s.beget.tech/public_html" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/turist3s.beget.tech/public_html" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="BegetF">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
